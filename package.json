@@ -30,11 +30,12 @@
         "cached-path-relative": "^1.0.2",
         "cryptiles": "^4.1.2",
         "font-awesome": "4.7.0",
-        "jquery": "3.3.1",
-        "popper": "^1.0.1"
+        "jquery": "^3.4.1",
+        "popper": "^1.0.1",
+        "tar": "^4.4.8"
     },
     "devDependencies": {
-        "browser-sync": "^2.24.7",
+        "browser-sync": "^2.26.5",
         "gulp": "^3.9.1",
         "gulp-clean-css": "3.9.4",
         "gulp-header": "2.0.5",
