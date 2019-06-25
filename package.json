@@ -26,6 +26,7 @@
         "url": "https://github.com/BlackrockDigital/startbootstrap-clean-blog.git"
     },
     "dependencies": {
+        "axios": "^0.19.0",
         "bootstrap": "^4.3.1",
         "cached-path-relative": "^1.0.2",
         "cryptiles": "^4.1.2",
